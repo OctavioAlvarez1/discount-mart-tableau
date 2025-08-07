@@ -10,7 +10,7 @@
 
 The dashboard provides a clear overview by **month**, **product category**, and **geographic region**, allowing the business owner to make data-driven decisions and validate business assumptions.
 
-<img src="ruta/de/la/imagen.jpg" alt="Descripción de la imagen" width="300">
+<img src="Imagenes/dashboard.png" alt="Descripción de la imagen" width="300">
 
 
 ---
