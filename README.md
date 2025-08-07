@@ -87,4 +87,4 @@ The dashboard provides a clear overview by **month**, **product category**, and 
   Octavio Alvarez
   Data Analyst & Tableau Developer
   📍 Argentina
-  🌐 LinkedIn Profile
+  
