@@ -10,6 +10,9 @@
 
 The dashboard provides a clear overview by **month**, **product category**, and **geographic region**, allowing the business owner to make data-driven decisions and validate business assumptions.
 
+<img src="ruta/de/la/imagen.jpg" alt="Descripción de la imagen" width="300">
+
+
 ---
 
 ## 🎯 Objectives
@@ -77,11 +80,6 @@ The dashboard provides a clear overview by **month**, **product category**, and 
 - **Calculated Fields** in Tableau for profit and quantity logic
 - **Maps** and **histograms** for geographic and behavioral insights
 
----
-
-## 🖼️ Dashboard Preview
-
-> ![Dashboard Preview](images/dashboard_all_years.png)
 
 ---
 
